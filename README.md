@@ -32,3 +32,6 @@ The research is organized into five directories, each dedicated to a specific ta
 ## Authors
 - Polina Tolstova
 - Luigi Cavallo
+
+## Disclaimer
+This software is provided "as is," without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from its use.
