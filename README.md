@@ -1,5 +1,5 @@
 # High-Throughput Computational Screening of Metal Sulfides for the Chemical Looping Elemental Decomposition of H2S
-![image](https://github.com/user-attachments/assets/654bfc6e-cfd4-426b-907f-3824d9051b99)
+![image]<center>(https://github.com/user-attachments/assets/654bfc6e-cfd4-426b-907f-3824d9051b99)</center>
 
 This repository contains scripts and files related to constructing sulfide databases and their analysis for the chemical looping decomposition of H2S.
 
@@ -26,3 +26,7 @@ The research is organized into five directories, each dedicated to a specific ta
 
 ## 05_Expansion_analysis
 - Thermodynamic analysis of newly predicted materials and the redox pairs derived from these materials.
+
+## Authors
+- Polina Tolstova
+- Luigi Cavallo
