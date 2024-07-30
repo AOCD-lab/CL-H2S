@@ -1,12 +1,7 @@
 # High-Throughput Computational Screening of Metal Sulfides for the Chemical Looping Elemental Decomposition of H2S
-![image](https://github.com/user-attachments/assets/654bfc6e-cfd4-426b-907f-3824d9051b99)
-
-PROVA
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/654bfc6e-cfd4-426b-907f-3824d9051b99" alt="image">
 </p>
-
 
 This repository contains scripts and files related to constructing sulfide databases and their analysis for the chemical looping decomposition of H2S.
 
